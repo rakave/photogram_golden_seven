@@ -5,10 +5,11 @@ class PhotosController < ApplicationController
 
   def show
     # params =  {"id"=>"2"}
-    @p=Photo.find_by({:id => params[:id] })
-    @photo_id = params[:id]
-    @photo_source = @p.source
-    @photo_caption = @p.caption
+    @photo=Photo.find_by({:id => params[:id] })
+    # Practice
+    # @photo_id = params[:id]
+    # @photo_source = @p.source
+    # @photo_caption = @p.caption
   end
 
   def edit
