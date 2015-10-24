@@ -8,32 +8,32 @@
 
 photo_info = [
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/1280px-Lake_Bondhus_Norway_2862.jpg",
-    :caption => "Lake Bondhus"
+    :source => "https://scontent-dfw1-1.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10707237_1490696544514786_230088619_n.jpg",
+    :caption => "Puppies"
   },
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lanzarote_5_Luc_Viatour.jpg/1280px-Lanzarote_5_Luc_Viatour.jpg",
-    :caption => "Cueva de los Verdes"
+    :source => "https://scontent-dfw1-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11272881_1601276706778047_1807178908_n.jpg",
+    :caption => "Amsterdam"
   },
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fire_breathing_2_Luc_Viatour.jpg/1280px-Fire_breathing_2_Luc_Viatour.jpg",
-    :caption => "Jaipur"
+    :source => "https://scontent-dfw1-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/12141829_1237956532896574_1877671852_n.jpg",
+    :caption => "Sushi"
   },
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ніжний_ранковий_світло.jpg/1280px-Ніжний_ранковий_світло.jpg",
-    :caption => "Sviati Hory"
+    :source => "https://scontent-dfw1-1.cdninstagram.com/hphotos-xap1/t51.2885-15/e35/924669_1639420749680433_2018534162_n.jpg",
+    :caption => "Glenfiddich Whiskey"
   },
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mostar_Old_Town_Panorama_2007.jpg/1280px-Mostar_Old_Town_Panorama_2007.jpg",
-    :caption => "Mostar"
+    :source => "https://scontent-dfw1-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11856636_1645260355716446_1680407638_n.jpg",
+    :caption => "Harper Center"
   },
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Elakala_Waterfalls_Swirling_Pool_Mossy_Rocks.jpg/1280px-Elakala_Waterfalls_Swirling_Pool_Mossy_Rocks.jpg",
-    :caption => "Elakala"
+    :source => "https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e35/12093802_906149332768244_457476826_n.jpg",
+    :caption => "Chicago Booth Classes"
   },
   {
-    :source => "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Biandintz_eta_zaldiak_-_modified2.jpg/1280px-Biandintz_eta_zaldiak_-_modified2.jpg",
-    :caption => "Biandintz"
+    :source => "https://scontent-dfw1-1.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11005064_780198895389394_790107108_n.jpg",
+    :caption => "Tribal Tattoo"
   }
 ]
 
