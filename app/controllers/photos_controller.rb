@@ -4,7 +4,6 @@ class PhotosController < ApplicationController
   end
 
   def new
-
   end
 
   def create_row
@@ -33,7 +32,7 @@ class PhotosController < ApplicationController
     p.caption = params[:photo_caption]
     p.source = params[:photo_source]
     p.save
-    redirect_to("/photos")
+    redirect_to("/photos/#{p.id}")
   end
 
   def delete
